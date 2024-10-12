@@ -1,0 +1,98 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #FFF5E4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    background: #FFD1D1;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    min-height: 45vh;
+    width: 60vh;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .amount {
+    margin-top: 20px;
+  }
+
+  .amount p {
+    padding-top: 2px;
+  }
+  
+  #input-text {
+    margin-top: 10px;
+    font-size: 1rem;
+    height: 2rem;
+    padding-left: 0.5rem;
+    background-color: #FFE3E1;
+  }
+
+  .dropdown i {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+  }
+
+  .dropdown {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  
+  .select-container img {
+    max-width: 2rem;
+    padding-right: 4px;
+  }
+  
+  
+  .select-container {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    width: 6rem;
+    height: 2.1rem;
+    border: 1px solid #FF9494;
+    align-items: center;
+    border-radius: 6px;
+  }
+
+  select{
+    background-color: #FFE3E1;
+  }
+
+  .msg {
+    margin: 20px 0;
+    color: black; /* Change the color based on your preference */
+  }
+  
+  button {
+    padding: 10px;
+    border: none;
+    background-color: #FF9494;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #f33867;
+  }
+  
