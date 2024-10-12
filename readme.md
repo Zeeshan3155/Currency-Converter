@@ -20,7 +20,11 @@ A simple and intuitive currency converter built using HTML, CSS, and JavaScript.
 3. Enter the amount you wish to convert.
 4. Select the target currency from the dropdown menu.
 5. Click the "Convert" button to see the converted amount.
-## 📸Screenshots
+## 📸 Screenshots
+![cc1](https://github.com/user-attachments/assets/4fb0d44a-728d-4d97-9167-a463abef6d34)
+![cc2](https://github.com/user-attachments/assets/5b1fa589-835f-43bb-a16b-b2d30cf62727)
+
+
 # Hi, I'm Zeeshan! 👋
 
 
